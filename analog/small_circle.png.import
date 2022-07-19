@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/small_circle.png-3a4a5669dba8aadb7a633418f40fdb5c.stex"
+path="res://.import/small_circle.png-0fea9af5518256f0e73e55a02a49b8f4.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://plugins/touchJoyPad/analog/small_circle.png"
-dest_files=[ "res://.import/small_circle.png-3a4a5669dba8aadb7a633418f40fdb5c.stex" ]
+source_file="res://addons/touchJoyPad/analog/small_circle.png"
+dest_files=[ "res://.import/small_circle.png-0fea9af5518256f0e73e55a02a49b8f4.stex" ]
 
 [params]
 

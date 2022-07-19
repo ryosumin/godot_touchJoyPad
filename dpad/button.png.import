@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/button.png-d0cc7755380370082ed0d425462d23a3.stex"
+path="res://.import/button.png-893e1a08a4212347fb23934bb4fc8d0e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://plugins/touchJoyPad/dpad/button.png"
-dest_files=[ "res://.import/button.png-d0cc7755380370082ed0d425462d23a3.stex" ]
+source_file="res://addons/touchJoyPad/dpad/button.png"
+dest_files=[ "res://.import/button.png-893e1a08a4212347fb23934bb4fc8d0e.stex" ]
 
 [params]
 
